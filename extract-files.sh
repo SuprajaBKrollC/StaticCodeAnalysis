@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Unzip files
+
 read -p "Enter the directory path to scan (default: current directory): " DIR
 DIR=${DIR:-.}
 
